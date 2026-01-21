@@ -1,0 +1,7 @@
+{
+  "name": "NotaScan AI - OMR Konvertor",
+  "description": "Musiqa notalari rasmlarini elektron MusicXML formatiga o'tkazuvchi aqlli ilova. Gemini AI yordamida notalarni tahlil qilish va raqamlashtirish.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
